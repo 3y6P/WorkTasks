@@ -11,8 +11,8 @@
   <NS1:Body>
     <NS3:TransferReferenceRq xmlns:NS3="http://sbrf.ru/NCPCA/CRM/TransferReferenceRq/">
       <NS3:DirectoryData>
-        <NS3:ErrorText>Not found</NS3:errortext>
-        <NS3:ErrorCode>404</NS3:ErrorCode>
+        <NS3:ErrorText>OK</NS3:ErrorText>
+        <NS3:ErrorCode>200</NS3:ErrorCode>
       </NS3:DirectoryData>
     </NS3:TransferReferenceRq>
   </NS1:Body>
